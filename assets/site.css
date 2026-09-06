@@ -123,3 +123,6 @@ main > div {
   .site-logo-mark { width: 34px; height: 34px; font-size: 16px; }
 }
 
+.nav-roblox { color:#fff; }
+.nav-roblox span { color:#ff334f; font-size:10px; display:inline-block; transform:rotate(12deg); margin-right:3px; }
+.nav-roblox[aria-current="page"] { color:#fff; background:rgba(255,51,79,.12); box-shadow:inset 0 -2px #ff334f,0 0 16px rgba(255,51,79,.1); }
